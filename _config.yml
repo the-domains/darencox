@@ -1,0 +1,28 @@
+name: darencox
+favicon: null
+layout_spectrum: 0.7471164800226688
+typography_spectrum: 0.3291336258407682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4388136107008904
+  lightness: 0.5081263380125165
+  saturation: 0.956648366060108
+  rhythmicContrast: 0.724288385361433
+purpose: []
